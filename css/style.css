@@ -1,0 +1,162 @@
+body {
+  font-size: 62.5%;
+  color: #000000;
+}
+
+.container {
+  padding: 0 15%;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: #092C48;
+  text-decoration: none;
+}
+
+p {
+  color: #092C48;
+}
+
+.section__wrapper {
+  text-align: center;
+  padding: 70px 0;
+}
+
+.section__title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #092C48;
+  margin-bottom: 40px;
+}
+
+.content__text {
+  text-align: left;
+  font-size: 0.9rem;
+}
+
+.header {
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.header__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 15%;
+}
+
+.header__title {
+  color: #092C48;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.header__list {
+  display: flex;
+  justify-content: space-around;
+  margin-right: -10px;
+}
+
+.header__item {
+  font-size: 1rem;
+  margin: 0 10px;
+}
+
+#fv {
+  height: 60vh;
+  background-image: url(/img/main-vsual.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.about__inner {
+  display: flex;
+}
+
+.about__text {
+  margin-left: 50px;
+  width: 50%;
+}
+
+.text {
+  text-align: left;
+  font-size: 0.9rem;
+}
+
+.img {
+  width: 50%;
+}
+
+.img img {
+  width: 100%;
+}
+
+.section__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content__img {
+  width: 300px;
+}
+
+.content__img img {
+  width: 100%;
+}
+
+#contact {
+  border-bottom: #d3d3d3 solid 1px;
+}
+
+.form {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.form__item {
+  display: flex;
+  flex-direction: column;
+}
+
+.form__text {
+  font-size: 0.9rem;
+  color: #092C48;
+}
+
+#email {
+  height: 40px;
+  padding: 10px;
+  font-size: 1rem;
+  border: solid 2px lightgray;
+  border-radius: 30px;
+  color: lightgray;
+}
+
+.btn__area {
+  margin-top: 20px;
+}
+
+.btn__area .submit {
+  width: 60%;
+  height: 60px;
+  background-color: #EC6D64;
+  color: #ffffff;
+  font-size: 1.35rem;
+  font-weight: bold;
+  border-radius: 3px;
+}
+
+.footer {
+  margin: 20px 0;
+}
+
+.copyright {
+  text-align: right;
+}
+/*# sourceMappingURL=style.css.map */

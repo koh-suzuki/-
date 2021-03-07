@@ -1,0 +1,17 @@
+.about__inner {
+  display: flex;
+}
+.about__text {
+  margin-left: 50px;
+  width: 50%;
+  }
+.text {
+  text-align: left;
+  font-size: 0.9rem;
+}
+.img {
+  width: 50%;
+  img {
+    width: 100%;
+  }
+}

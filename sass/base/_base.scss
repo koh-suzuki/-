@@ -1,0 +1,32 @@
+body {
+  font-size: 62.5%;
+  color: #000000;
+}
+.container {
+  padding: 0 15%;
+}
+ul {
+  list-style: none;
+}
+a {
+  color: #092C48;
+  text-decoration: none;
+}
+p {
+  color: #092C48;
+}
+.section__wrapper {
+  text-align: center;
+  padding: 70px 0;
+}
+.section__title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #092C48;
+  margin-bottom: 40px;
+}
+
+.content__text {
+  text-align: left;
+  font-size: 0.9rem;
+}

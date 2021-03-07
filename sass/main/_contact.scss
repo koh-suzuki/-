@@ -1,0 +1,35 @@
+#contact {
+  border-bottom: #d3d3d3 solid 1px;
+}
+.form {
+  width: 50%;
+  margin: 0 auto;
+}
+.form__item {
+  display: flex;
+  flex-direction: column;
+}
+.form__text {
+  font-size: 0.9rem;
+  color: #092C48;
+}
+#email {
+  height: 40px;
+  padding: 10px;
+  font-size: 1rem;
+  border: solid 2px lightgray;
+  border-radius: 30px;
+  color: lightgray;
+}
+.btn__area {
+  margin-top: 20px;
+  .submit {
+    width: 60%;
+    height: 60px;
+    background-color: #EC6D64;
+    color: #ffffff;
+    font-size: 1.35rem;
+    font-weight: bold;
+    border-radius: 3px;
+  }
+}
